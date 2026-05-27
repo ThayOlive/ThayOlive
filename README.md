@@ -1,22 +1,86 @@
-# 💫 About Me:
-<br>### 👩‍💻 Sobre mim<br><br>Sou Thayla de Oliveira, estudante de Tecnologia da Informação com foco em desenvolvimento web e backend. Tenho interesse especial em Python, Django e bancos de dados relacionais como PostgreSQL. Atualmente, busco consolidar meus conhecimentos por meio de projetos práticos e contribuir com soluções que gerem valor real.<br><br>### 💼 Habilidades<br><br>- **Linguagens:** Python, JavaScript, HTML, CSS  <br>- **Frameworks e bibliotecas:** Django, Bootstrap, FullCalendar  <br>- **Banco de dados:** PostgreSQL  <br>- **Ferramentas e controle de versão:** Git, GitHub  <br><br>### 📌 Projetos em destaque<br><br>- [**app-agendamentos**](https://github.com/ThayOlive/app-agendamentos) — Sistema de agendamento com visualização interativa em calendário.  <br>- [**plataformaEad**](https://github.com/ThayOlive/projetoEAD) — Plataforma de ensino a distância com gerenciamento de aulas e usuários.  <br>- [**api-busca-django**](https://github.com/ThayOlive/API_de_busca) — API de busca desenvolvida com Django e Django REST Framework.  <br><br>### 🎯 Objetivo<br><br>Atuar na área de desenvolvimento backend, com foco em qualidade de código, estrutura de dados e integração com sistemas. Busco constantemente evoluir como profissional, contribuindo em projetos colaborativos e aprendendo com cada etapa do processo de desenvolvimento.<br>
+# 👋 Olá, eu sou a Thayla
 
+Atuo com Dados & Automação, desenvolvendo soluções voltadas para otimização de processos, integração de informações e ganho de eficiência operacional.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thayladeoliveira/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thl.oliver.1999@gmail.com) 
+Tenho experiência prática com Python, SQL, ETL, Google Apps Script e Google Workspace, criando automações, pipelines de dados e aplicações voltadas para produtividade, integração e organização de informações.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThayOlive&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ThayOlive&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThayOlive&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ThayOlive&limit=5&theme=dark&combine_all_yearly_contributions=true)
+Também desenvolvo aplicações web com Django e soluções para consumo, tratamento e manipulação de dados através de APIs e processos automatizados.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ThayOlive&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Áreas de interesse
+
+- Engenharia de Dados
+- Automação de Processos
+- ETL e Integração de Dados
+- Aplicações Web com Python
+- APIs & Back-end
+- Soluções com Google Apps Script
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Linguagens
+- Python
+- SQL
+- JavaScript
+
+### Dados & Automação
+- ETL
+- Google Apps Script
+- Google Sheets
+- APIs REST
+- Automação de Processos
+
+### Desenvolvimento
+- Django
+- Streamlit
+- Git & GitHub
+
+### Ferramentas
+- Excel
+- Google Workspace
+
+---
+
+## 📌 Projetos em destaque
+
+### 🔹 ETL Pipeline BACEN
+Pipeline ETL utilizando dados públicos do Banco Central para coleta, transformação e análise de dados.
+
+🔗 Repositório:  
+https://github.com/ThayOlive/etl-pipeline-bacen
+
+---
+
+### 🔹 API de Busca
+Aplicação voltada para consumo e integração de APIs, realizando tratamento e manipulação de dados externos.
+
+🔗 Repositório:  
+https://github.com/ThayOlive/API_de_busca
+
+---
+
+### 🔹 App Agendamentos
+Aplicação web para gerenciamento de agendamentos e organização de fluxos operacionais.
+
+🔗 Repositório:  
+https://github.com/ThayOlive/app-agendamentos
+
+---
+
+## 📚 Atualmente estudando
+
+- Engenharia de Dados
+- Arquitetura de Pipelines
+- Automação com Python
+- APIs e Integrações
+- Estruturação de aplicações escaláveis
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/thayladeoliveira/
+- GitHub: https://github.com/ThayOlive
