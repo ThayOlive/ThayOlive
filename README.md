@@ -55,7 +55,7 @@ https://github.com/ThayOlive/etl-pipeline-bacen
 ---
 
 ### 🔹 API de Busca
-Aplicação voltada para consumo e integração de APIs, realizando tratamento e manipulação de dados externos.
+API de consulta e busca de registros utilizando Django REST Framework
 
 🔗 Repositório:  
 https://github.com/ThayOlive/API_de_busca
@@ -63,7 +63,7 @@ https://github.com/ThayOlive/API_de_busca
 ---
 
 ### 🔹 App Agendamentos
-Aplicação web para gerenciamento de agendamentos e organização de fluxos operacionais.
+Aplicação web para gerenciamento de agendamentos.
 
 🔗 Repositório:  
 https://github.com/ThayOlive/app-agendamentos
